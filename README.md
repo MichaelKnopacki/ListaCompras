@@ -21,7 +21,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip). Figma (https://www.figma.com/design/PzEAVfVyd1P2V3ReWdPVKT/JavaScript%3A-construindo-páginas-dinâmicas-%7C-Checklist-(Community)?node-id=1025-129&node-type=frame&t=plj9LITGS3qOvhsS-0)
 
 ## 🛠️ Abrir e rodar o projeto
 
